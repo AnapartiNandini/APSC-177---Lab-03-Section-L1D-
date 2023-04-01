@@ -11,12 +11,6 @@
 * cleared to travel at a time and all other trains are stopped, on all tracks. The 		*
 * information regarding how many trains are on each track, which track has cleared the  	*
 * train, and how many trains are stopped on each track are displayed.				*
-*												*
-* NOTE: This code works in other IDEs but does not work in this IDE. I issue seems to be 	*
-* related to the 'to_string' function that I'm using. I've included the required string 	*
-* library but the code still isn't working. I have informed the TAs for my lab section of	*
-* of this issue and they asked me to provide a link to the code on a different compiler so	*
-* here is a link to my replit: https://replit.com/join/qwluhbkpnc-nandinianaparti		*
 *-----------------------------------------------------------------------------------------------*/
 
 
